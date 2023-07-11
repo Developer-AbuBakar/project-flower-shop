@@ -67,6 +67,7 @@
   display: flex;
   gap: 30px;
   margin-left: 325px;
+  margin-top: 100px;
 }
 .image-01 {
   width: 400px;
